@@ -1,0 +1,33 @@
+body{
+    
+}
+
+h1 {
+    text-align: center;
+    text-size-adjust: 1000px;
+}
+ 
+h3 {
+    text-align: center;
+    text-size-adjust: 500px;
+}
+
+h2{
+    text-align: center;
+    text-size-adjust: 500px;
+    color: red;
+}
+
+h4{
+    text-align: center;
+}
+.img {
+    align: center;
+}
+
+.picture {
+    
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
